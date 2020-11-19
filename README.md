@@ -1,6 +1,6 @@
 # Introduction
 Open the covid19_analysis dashboard in Binder:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JayVeezy1/CS50_final_project/master?urlpath=voila%2Ftree%2Fnotebooks/covid19_analysis.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JayVeezy1/CS50_final_project/master?urlpath=voila%2Ftree%2Fnotebooks)
 
 The project 'covid19_analysis.ipynb' is saved in the 'notebooks' folder. You can download it to use it for your own analysis or local Voila dashboard.
 
