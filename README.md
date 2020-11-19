@@ -11,13 +11,14 @@ The dashboard setup was inspired by the following tutorial: https://www.youtube.
 This data set is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) by the Johns Hopkins University on behalf of its Center for Systems Science in Engineering. Copyright Johns Hopkins University 2020. https://github.com/CSSEGISandData/COVID-19
 
 
-# ![voila](docs/source/voila-logo.svg)
+# About Voila
 
-This whole repository is based on https://github.com/voila-dashboards/voila 
+# ![voila](docs/source/voila-logo.svg)
 
 [![Documentation](http://readthedocs.org/projects/voila/badge/?version=latest)](https://voila.readthedocs.io/en/latest/?badge=latest)
 
-It enables rendering of live Jupyter notebooks with interactive widgets. Voilà turns Jupyter notebooks into standalone web applications.
+It enables rendering of live Jupyter notebooks with interactive widgets. Voilà turns Jupyter notebooks into standalone web applications. This repository is based on https://github.com/voila-dashboards/voila 
+
 
 ## License
 
