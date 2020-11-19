@@ -1,7 +1,7 @@
 # ![voila](docs/source/voila-logo.svg)
 
 [![Documentation](http://readthedocs.org/projects/voila/badge/?version=latest)](https://voila.readthedocs.io/en/latest/?badge=latest)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JayVeezy1/voila/stable?urlpath=voila%2Ftree%2Fnotebooks)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JayVeezy1/voila/master?urlpath=voila%2Ftree%2Fnotebooks)
 
 Rendering of live Jupyter notebooks with interactive widgets.
 
