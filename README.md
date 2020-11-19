@@ -6,7 +6,7 @@ The project 'covid19_analysis.ipynb' is saved in the 'notebooks' folder. You can
 
 If you intend to build a Voila-Dashboard on your own PC, just download the .ipynb file. Next you have to install the Voila package on your local Python Version (e.g. in the command line: ‘pip install voila’). Now you can start the dashboard on your local machine by using the command line: ‘voila “~/path/to/notebook/covid19_analysis.ipynb” ‘. Stay safe and good luck!
 
-Please do not hesitate to contact me for further requiries or feedback.
+Please do not hesitate to contact me for further enquiries or feedback.
 The dashboard setup was inspired by the following tutorial: https://www.youtube.com/watch?v=FngV4VdYrkA&list=LL&index=3&ab_channel=DataSciencewithHarshit
 This data set is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) by the Johns Hopkins University on behalf of its Center for Systems Science in Engineering. Copyright Johns Hopkins University 2020. https://github.com/CSSEGISandData/COVID-19
 
